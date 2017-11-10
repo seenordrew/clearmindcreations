@@ -4,7 +4,6 @@ html, body {
 }
 
 .navbar {
-  //position: fixed;
   display: flex;
   width: 100%;
   justify-content: flex-end;
@@ -55,7 +54,7 @@ z-index: 4;
 
 .header-small {
   font-size: 4vw;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 .wrapper-web {
@@ -71,7 +70,7 @@ z-index: 3;
 .header {
   text-align: center;
   font-size: 7vw;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Josefin Slab', serif;;
   text-decoration: underline;
   margin-top: 6vw;
 }
